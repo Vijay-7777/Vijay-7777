@@ -215,7 +215,7 @@ An AI-powered text transformation platform designed to convert AI-generated cont
 
 
 <a href="https://www.codechef.com/users/vijay0001">
-  <img src="https://img.shielvijay_ds.io/badge/CodeChef-Profile-964B00?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-Profile-964B00?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 
