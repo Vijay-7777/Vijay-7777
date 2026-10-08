@@ -68,103 +68,109 @@ Passionate about building real-world applications and solving complex problems t
 
 ---
 
+
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <br>
 
-### 🌍 SEWA – Smart Food Redistribution Platform
+### 🚨 Civic Alert – AI-Powered Crime Reporting & Civic Safety Platform
 
-A technology-driven food redistribution platform that connects hotels with NGOs to reduce food wastage and improve donation transparency.
+An AI-powered civic safety platform that enables citizens to report crimes and community issues, track complaints, and explore incidents through interactive maps.
 
 **Key Features**
 
-- 🔐 OTP-based pickup verification
-- 💬 Real-time Hotel–NGO communication
-- 📦 Donation tracking and management
-- ⭐ Feedback and rating system
-- 📊 Dedicated Hotel, NGO, and Admin dashboards
-- ⚠️ Complaint management and admin-reviewed blacklisting
-- 📈 Donation and social impact analytics
+- 🚨 Anonymous and authenticated crime reporting
+- 📍 Interactive maps with location tracking and reverse geocoding
+- 📋 Real-time complaint status tracking and management
+- 🏛️ Role-based dashboards and department-wise report routing
+- 🤖 AI-powered assistant for crime and locality-related queries
+- 🔐 Secure authentication and protected application routes
+- 📊 Centralized incident monitoring and report management
+- 🌦️ Optional integration with news, weather, and AI services
 
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB
+**Tech Stack:** Next.js | React.js | TypeScript | FastAPI | Python | SQLite | Gemini AI
 
-<a href="https://github.com/vineet358/SEVA-FOOD-WASTE-MANAGEMENT">
-  <img src="https://img.shields.io/badge/View_Repository-SEWA-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Vijay-7777/Civic-Alert">
+  <img src="https://img.shields.io/badge/View_Repository-Civic_Alert-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 ---
 
-### 🛒 हुनरBazaar – Modern Multilingual E-Commerce Platform
 
-A modern e-commerce platform designed to connect local sellers and established brands within a unified digital marketplace.
+### 🛍️ Trendify – AI-Powered Fashion E-Commerce Platform
+
+A full-stack MERN-based fashion e-commerce platform designed to deliver a modern shopping experience with intelligent product recommendations, secure payments, and centralized store management.
+
+
 
 **Key Features**
 
-- 🌐 Multilingual shopping experience
-- 🤖 Personalized product recommendations
-- 🔐 QR-based AES-128 encryption for secure data handling
-- 🛍️ Modern product browsing experience
-- 🏪 Support for local sellers and established brands
-- 🐳 Containerized development using Docker
+- 🛍️ Modern and responsive fashion shopping interface
+- 🤖 AI-powered personalized product recommendations
+- 🔐 Google authentication using Firebase
+- 💳 Secure online payments with Razorpay integration
+- 🛒 Shopping cart, checkout, and order management
+- 📦 Real-time inventory and stock management
+- 📊 Dedicated admin dashboard for products, orders, and users
+- 👕 Product browsing and catalog management
 
-**Tech Stack:** React.js | FastAPI | MongoDB | Machine Learning | Docker
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB | Firebase | Razorpay | Machine Learning
 
-<a href="https://github.com/group-projects-org/HunarBazaar">
-  <img src="https://img.shields.io/badge/View_Repository-HunarBazaar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Vijay-7777/Trendify">
+  <img src="https://img.shields.io/badge/View_Repository-Trendify-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 ---
 
-### 🚨 Smart Disaster Management System
+### 💻 BakScript – Custom Programming Language & Compiler
 
-A disaster response platform designed to improve communication between civilians and government authorities during emergency situations.
+A custom programming language built from scratch in C, featuring a compiler pipeline, interpreter, interactive REPL, and web-based playground for writing, executing, and visualizing code.
 
 **Key Features**
 
-- 🆘 Instant and form-based SOS alerts
-- 📍 Real-time location tracking
-- 🌦️ Live weather information
-- 🏥 Nearby safehouse discovery and navigation
-- 🏛️ Centralized Government Emergency Dashboard
-- 🤖 ML-based resource requirement prediction
-- 📦 Intelligent resource allocation
+- 🔤 Custom lexical analyzer and recursive-descent parser
+- 🌳 Abstract Syntax Tree (AST) generation and semantic analysis
+- ⚙️ Intermediate code generation using Three-Address Code (TAC)
+- 🚀 Interpreter supporting variables, functions, loops, and conditional statements
+- 💻 Interactive REPL for executing code directly
+- 🌐 Web-based code editor and execution playground
+- 📊 Compiler pipeline visualization with tokens, AST, symbol tables, and execution traces
+- 🐞 Debugging tools with error reporting and execution tracing
 
-**Tech Stack:** React.js | FastAPI | Python | Machine Learning
+**Tech Stack:** C | Python | HTML | CSS | JavaScript | Compiler Design
 
-<a href="https://github.com/vineet358/Disaster-Management-SIH">
-  <img src="https://img.shields.io/badge/View_Repository-Disaster_Management-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Vijay-7777/BakScript">
+  <img src="https://img.shields.io/badge/View_Repository-BakScript-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 ---
 
-### 🏆 TalentScout – Sports Talent Scouting Platform
+### 🤖 Humanizee – AI-Powered Text Humanization Platform
 
-A full-stack platform designed to make sports talent discovery more accessible through standardized digital assessments.
+An AI-powered text transformation platform designed to convert AI-generated content into natural, human-like writing while preserving its original meaning, context, and readability.
 
 **Currently Under Development 🚧**
 
 **Key Features**
 
-- ⚽ Sport-specific talent assessments
-- 📸 Camera-based assessment verification
-- 📊 Athlete performance dashboards
-- 🏆 Top performer rankings
-- 👨‍🏫 Coach-based talent discovery
-- 🤖 Future ML-based performance analysis
+- 🤖 AI-powered text humanization and rewriting
+- ✍️ Natural language enhancement for improved readability
+- 🎯 Context-aware rewriting while preserving original meaning
+- 🎨 Multiple writing tones and styles
+- 📊 Text analysis and readability improvements
+- 🔐 Secure user authentication and account management
+- ⚡ API rate limiting for efficient request management
+- 📜 Humanization history and text management
 
-**Tech Stack:** React.js | Node.js | Express.js | PostgreSQL | Prisma
-
-<a href="https://github.com/vineet358/TalentScout">
-  <img src="https://img.shields.io/badge/View_Repository-TalentScout-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB | Tailwind CSS | AI/LLM APIs
 
 <br><br>
 
@@ -195,21 +201,23 @@ A full-stack platform designed to make sports talent discovery more accessible t
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vineet-pandey-/">
+<a href="https://www.linkedin.com/in/vijay-singh0001/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vineet358">
+<a href="https://github.com/Vijay-7777">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/vineet__pandey/">
+<a href="https://leetcode.com/u/vijay_0001/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/vp124m52y">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<a href="https://www.codechef.com/users/vijay0001">
+  <img src="https://img.shielvijay_ds.io/badge/CodeChef-Profile-964B00?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+
 
 </p>
 
